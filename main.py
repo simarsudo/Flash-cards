@@ -72,3 +72,5 @@ next_card()
 
 
 window.mainloop()
+
+#added some comments
